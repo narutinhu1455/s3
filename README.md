@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
