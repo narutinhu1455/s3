@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add PaddlePaddle Docs Integrations Page (#8858)
