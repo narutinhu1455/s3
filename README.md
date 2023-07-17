@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Fix OBB xywh-angle concatenation bug (#7404)
