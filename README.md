@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Fix cmake requirements for ARM64 (#8589)
