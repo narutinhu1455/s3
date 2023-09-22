@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
