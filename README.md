@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+fix yolo classify model loading error (#9196)
