@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Updated SQL Query Plot Code (#8120)
