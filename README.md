@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update OpenVINO INT8 export (#7515)
